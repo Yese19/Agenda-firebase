@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "775314580340",
+    "firebase_url": "https://contactagenda-f05c8.firebaseio.com",
+    "project_id": "contactagenda-f05c8",
+    "storage_bucket": "contactagenda-f05c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775314580340:android:1dab5c346c5da81a",
+        "android_client_info": {
+          "package_name": "com.example.contactagenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775314580340-n9nq1mmq5d5vsmm7qtfiqhtd8eo61mtb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.contactagenda",
+            "certificate_hash": "1567a5bd6a48f54a380c97d4ec0b3948389fa950"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaZ0QrCAtlBejXE3JWDqrIV3JSSToAf5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775314580340-ahrg3l9o0bnvj81c8slsbsj15llaf7v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
